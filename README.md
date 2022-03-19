@@ -6,6 +6,7 @@
 - Cannot hold notes
 - Can only be used on the right side with downscroll
 - Uses lots of system resources because it constantly captures each note separately
+- 
 
 ### How to use:
 To run this bot, you need to have python installed
@@ -20,3 +21,12 @@ Once these packages are installed, open a terminal in the folder and run the bot
 ```
 python3 main.py
 ```
+
+In game:
+- Set arrows to downscroll and recommended using circles
+- Enable ghost tapping in settings
+
+### Demo:
+Demo on the song 'Run' from the 'VS bob' mod on Insane difficulty
+
+![demo_gif](https://i.giphy.com/media/XlDxRQuNiZKXe4iR13/giphy.webp)
